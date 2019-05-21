@@ -1,0 +1,1 @@
+/home/antoniotrkdz/scripts/lua/wallpaper_slideshow_xml_maker.lua
