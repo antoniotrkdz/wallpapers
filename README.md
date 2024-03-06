@@ -1,1 +1,1 @@
-# My collection of Desktop backgrounds
+# My collection of Desktop wallpapers
